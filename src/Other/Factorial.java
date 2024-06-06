@@ -13,3 +13,4 @@ public class Factorial {
 		return n*factorial(n-1);
 	}
 }
+//its updated now
